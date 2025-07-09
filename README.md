@@ -108,7 +108,7 @@ Notebook ini mencakup seluruh proses:
 
 👨‍💻 **Tio Ahmad Purnomoaji**  
 Program Studi Teknik Elektro, Universitas Sebelas Maret  
-Peserta SDI Hacktiv8 x IBM SkillsBuild – Wave 2, Batch 2  
+Peserta SDI Hacktiv8 x IBM SkillsBuild – Wave 3, Batch 5  
 📧 Email: tioahmad88@gmail.com  
 
 ---

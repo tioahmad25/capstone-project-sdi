@@ -1,0 +1,109 @@
+Shift Start,Shift End,Summary
+2023-03-10 00:00:00,2023-03-10 01:00:00,"1. Shift Report:
+   - Temperature: During the shift, temperatures fluctuated between 51.70°C and 129.83°C, with an average of 94.88°C and a standard deviation of 24.73°C. This indicates significant variability, potentially due to operational changes or external factors.
+   - Pressure: The average pressure maintained at 8.44 bar, with a standard deviation of 0.88 bar, suggesting consistent operational conditions within the expected range.
+   - Vibration: The highest recorded vibration level was 0.97 mm/s, while the average was 0.52 mm/s. The Root Mean Square (RMS) vibration averaged at 0.60 mm/s, which falls within the normal operational range but warrants continuous monitoring.
+
+2. Important Information: The temperature data exhibits considerable variability, which may require further investigation to identify potential causes, such as process changes or equipment malfunctions. Although vibration levels remain within the typical range, the relatively high RMS value suggests a possible early sign of developing issues. It would be prudent to conduct a thorough inspection of the machinery during the next scheduled maintenance interval to ensure no latent faults are present."
+2023-03-10 01:00:00,2023-03-10 02:00:00,"1. Shift Report:
+   - Temperature: Throughout the shift, temperatures fluctuated between 51.43°C and 129.59°C, with an average of 90.03°C and a standard deviation of 24.98. This indicates significant variability in thermal conditions, potentially due to varying operational loads or external factors.
+   - Pressure: The average pressure maintained at 8.56 bar, with a standard deviation of 0.90, suggesting relatively stable pressure conditions during this shift.
+   - Vibration: The vibration levels peaked at 0.99 mm/s, with an average of 0.54 mm/s and an RMS vibration of 0.60. These values are within the normal operational range but warrant continuous monitoring for any trending increases that might indicate developing faults.
+
+2. Important Information: While the pressure readings remained consistent, the considerable fluctuation in temperature and vibration levels necessitates closer examination. The elevated temperature range, coupled with the peak vibration levels, could signify increased mechanical stress or potential misalignment issues. It is recommended to conduct a thorough inspection of the machinery during the next scheduled maintenance to address these anomalies proactively and prevent potential equipment failure."
+2023-03-10 02:00:00,2023-03-10 03:00:00,"1. Shift Report:
+   - Temperature: During the shift, temperatures fluctuated between 50.51°C and 128.49°C, with an average of 95.36°C and a standard deviation of 22.08°C. This indicates significant thermal variation, which may warrant further investigation.
+   - Pressure: The average pressure maintained at 8.59 bar, with a standard deviation of 0.81 bar, suggesting stable pressure conditions throughout the shift.
+   - Vibration: The vibration levels peaked at 0.99 mm/s, with an average of 0.52 mm/s and an RMS vibration of 0.60. These values are within normal operating ranges but close to the upper threshold, necessitating close monitoring.
+
+2. Important Information: The thermal fluctuations observed during this shift are notable, and the high average temperature of 95.36°C, coupled with a substantial standard deviation, could indicate potential thermal stress on the machinery. Although pressure remained stable, the vibration levels, particularly the peak at 0.99 mm/s, approach the upper operational limit. It is recommended to conduct a thorough inspection of the machinery during the next scheduled maintenance to assess any potential issues arising from these conditions."
+2023-03-10 03:00:00,2023-03-10 04:00:00,"1. Shift Report:
+   - Temperature: The temperature during this shift varied between 51.77°C and 129.77°C, with an average of 90.99°C and a standard deviation of 24.98. This indicates a wide fluctuation, potentially due to operational changes or external factors.
+   - Pressure: The average pressure maintained at 8.54 bar, with a standard deviation of 0.92, suggesting consistent operation within normal parameters.
+   - Vibration: The vibration levels peaked at 0.98 mm/s and averaged 0.55 mm/s, with an RMS value of 0.60. These readings are within acceptable ranges, but the peak value warrants monitoring to ensure it does not escalate.
+
+2. Important Information: While the pressure and RMS vibration values remain within normal operating ranges, the significant temperature fluctuation and peak vibration level necessitate closer monitoring. It is recommended to investigate the cause of the temperature variation and keep an eye on the vibration levels to prevent potential equipment degradation."
+2023-03-10 04:00:00,2023-03-10 05:00:00,"1. Shift Report:
+   - Temperature: During the shift from 04:00–05:00, the average temperature was recorded at 85.36°C, with a standard deviation of 22.95°C. This indicates a relatively stable yet elevated thermal environment for the machinery.
+   - Pressure: The average pressure maintained at 8.40 bar, with a standard deviation of 0.85 bar, suggests consistent operational conditions without significant fluctuations.
+   - Vibration: The peak vibration level reached 0.99 mm/s, while the average was 0.60 mm/s, with an RMS vibration of 0.60 mm/s. These values are within the normal operating range but warrant continuous monitoring to detect any early signs of potential mechanical issues.
+
+2. Important Information: The sensor data indicates a consistently warm operational environment, with temperatures peaking at 128.93°C. Although pressure and RMS vibration levels are within normal ranges, the elevated temperatures could potentially accelerate wear and tear on machinery components. It is recommended to closely monitor the temperature trends and consider implementing additional cooling measures if the thermal load remains high over extended periods."
+2023-03-10 05:00:00,2023-03-10 06:00:00,"1. Shift Report:
+   - Temperature: During the shift from 05:00–06:00, the temperature ranged from 52.45°C to 129.71°C, with an average of 92.78°C and a standard deviation of 23.82. This indicates considerable fluctuation, potentially due to varying operational loads or external factors.
+   - Pressure: The average pressure maintained at 8.46 bar, with a standard deviation of 0.88, suggests stable pressure conditions throughout the shift.
+   - Vibration: The peak vibration level reached 0.98 mm/s, while the average was 0.52 mm/s, with an RMS vibration of 0.60. These values are within the normal operating range, but close monitoring is advised due to the proximity to the upper limit.
+
+2. Important Information: The temperature fluctuations observed during this shift warrant attention, as they may indicate operational inefficiencies or external heat sources affecting the machinery. Although pressure and vibration levels remain within acceptable ranges, the high-end temperature variations necessitate a thorough investigation to prevent potential equipment damage or performance degradation. It is recommended to schedule a maintenance check focusing on cooling systems and assess the root cause of these temperature anomalies."
+2023-03-10 06:00:00,2023-03-10 07:00:00,"1. Shift Report:
+   - Temperature: During the shift from 06:00–07:00, the temperature readings ranged from 52.93°C to 127.71°C, with an average of 88.78°C and a standard deviation of 23.62. This indicates significant variability in thermal conditions.
+   - Pressure: The average pressure was maintained at 8.39 bar, with a standard deviation of 0.80, suggesting consistent operational pressure levels within acceptable limits.
+   - Vibration: The peak vibration level reached 0.99 mm/s, while the average was 0.58 mm/s, and the RMS vibration averaged at 0.60. These values are within normal operating ranges, but closer monitoring is advised due to the proximity to the upper limit.
+
+2. Important Information:
+While temperature fluctuations were considerable, they remained within operational boundaries. Pressure levels were stable and consistent with normal operation. However, the vibration data, though within acceptable ranges, neared the upper limit, warranting closer monitoring to detect any potential onset of faults early. It is recommended to schedule a routine maintenance check to ensure the equipment's continued reliable performance."
+2023-03-10 07:00:00,2023-03-10 08:00:00,"1. Shift Report:
+   - Temperature: During the shift from 07:00–08:00, the temperature fluctuated between 50.40°C and 129.95°C, with an average of 95.38°C and a standard deviation of 23.65°C.
+   - Pressure: The average pressure maintained at 8.54 bar, with a standard deviation of 0.86 bar, indicating consistent operational conditions.
+   - Vibration: The vibration levels peaked at 0.99 mm/s, with an average of 0.55 mm/s and an RMS value of 0.60, suggesting moderate operational vibration levels.
+
+2. Important Information:
+The temperature data exhibits significant fluctuation, with a high standard deviation, which may warrant further investigation to rule out potential thermal anomalies or inefficiencies in the machinery. Despite the consistent pressure readings, the notable temperature variations and moderate vibration levels recommend a thorough inspection of the equipment during the next scheduled maintenance interval to ensure optimal performance and prevent possible equipment degradation."
+2023-03-10 08:00:00,2023-03-10 09:00:00,"1. Shift Report:
+   - Temperature: During the 08:00–09:00 shift, temperatures fluctuated between 50.46°C and 126.44°C, with an average of 85.75°C and a standard deviation of 20.89. The elevated temperatures warrant attention to potential overheating issues.
+   - Pressure: The average pressure maintained at 8.69 bar, with a standard deviation of 0.89, indicating consistent operational pressure levels within acceptable ranges.
+   - Vibration: The vibration levels peaked at 1.00 mm/s, with an average of 0.63 mm/s and an RMS value of 0.60. These readings suggest minor to moderate vibration levels, which, while not alarming, should be monitored for any escalation.
+
+2. Important Information: Notable insights from the sensor data include elevated temperature ranges, which may indicate potential overheating issues, and moderate vibration levels that, if unmonitored, could escalate into more significant concerns. It is recommended to conduct a thorough inspection of the machinery during this shift period to address any underlying causes for the high temperatures and keep track of vibration trends for early fault detection."
+2023-03-10 09:00:00,2023-03-10 10:00:00,"1. Shift Report:
+   - Temperature: During the 09:00–10:00 shift, the temperature fluctuated within a range of 51.89°C to 129.30°C, with an average of 90.57°C and a standard deviation of 22.84°C.
+   - Pressure: The pressure maintained an average of 8.44 bar, with a standard deviation of 0.84 bar, indicating consistent operational conditions.
+   - Vibration: The vibration levels peaked at 0.98 mm/s, with an average of 0.52 mm/s and an RMS value of 0.60, suggesting minor to moderate mechanical stress.
+
+2. Important Information: While the pressure readings remained stable, the temperature fluctuations and elevated vibration levels warrant attention. The temperature's wide range and relatively high average, along with the vibration data indicating minor to moderate mechanical stress, could potentially signal an emerging issue. It is recommended to conduct a thorough inspection of the machinery during the next scheduled maintenance interval to prevent possible equipment failure."
+2023-03-10 10:00:00,2023-03-10 11:00:00,"1. Shift Report:
+   - Temperature: Throughout the shift, temperatures fluctuated between 52.89°C and 129.53°C, with an average of 89.41°C and a standard deviation of 22.42°C.
+   - Pressure: The average pressure maintained at 8.45 bar, with a standard deviation of 0.90 bar, indicating stable operational conditions.
+   - Vibration: The peak vibration level reached 0.93 mm/s, while the average was 0.48 mm/s, and the root mean square (RMS) vibration was recorded at 0.60.
+
+2. Important Information:
+Notable insights from the sensor data suggest that while pressure and temperature remained within expected ranges, the vibration levels, particularly the peak at 0.93 mm/s, warrant closer examination. The RMS vibration of 0.60 indicates potential early signs of wear or misalignment in the machinery. It is recommended to conduct a more detailed inspection and consider scheduling preventive maintenance to address any emerging issues before they escalate."
+2023-03-10 11:00:00,2023-03-10 12:00:00,"1. Shift Report:
+   - Temperature: During the 11:00–12:00 shift, the temperature of the machinery fluctuated between 52.06°C and 129.59°C, with an average of 91.46°C and a standard deviation of 24.93. This indicates considerable thermal variation, which may warrant further investigation.
+   - Pressure: The average pressure maintained at 8.34 bar, with a standard deviation of 0.86, suggesting consistent operational conditions. However, continuous monitoring is advised to ensure no unnoticed fluctuations.
+   - Vibration: The vibration levels peaked at 0.99 mm/s, with an average of 0.52 mm/s and an RMS value of 0.60. These readings are within acceptable limits but should be consistently monitored to detect any potential escalation.
+
+2. Important Information: The temperature data exhibits significant variation, which could imply inefficiencies or localized issues within the machinery. While pressure remains stable, the vibration levels, although within normal range, necessitate close observation to preemptively identify any impending faults. Regular maintenance checks and targeted inspections are recommended to address these observations and ensure optimal equipment performance."
+2023-03-10 12:00:00,2023-03-10 13:00:00,"1. Shift Report:
+   - Temperature: During the 12:00–13:00 shift, the temperature ranged from 50.88°C to 129.74°C, with an average of 88.33°C and a standard deviation of 22.89. This indicates considerable fluctuation, potentially due to operational changes or external factors.
+   - Pressure: The average pressure maintained at 8.42 bar, with a standard deviation of 0.87, suggests consistent operation within expected parameters.
+   - Vibration: The peak vibration level reached 0.95 mm/s, while the average was 0.57 mm/s, and the RMS vibration was recorded at 0.60. These values are within normal operational ranges but warrant continuous monitoring.
+
+2. Important Information:
+The temperature fluctuations observed during this shift are notable, as they surpass the typical range. This may indicate an operational change or an external influence affecting the machinery's thermal environment. It is recommended to investigate the cause of these temperature variations to prevent potential equipment damage. Meanwhile, the pressure and vibration metrics remain within acceptable limits, though consistent monitoring is advised to ensure early detection of any emerging issues."
+2023-03-10 13:00:00,2023-03-10 14:00:00,"1. Shift Report:
+   - Temperature: During the 13:00–14:00 shift, the temperature fluctuated between 50.97°C and 128.40°C, with an average of 88.56°C and a standard deviation of 24.46°C.
+   - Pressure: The average pressure maintained at 8.65 bar, with a standard deviation of 0.97 bar, indicating consistent operational conditions.
+   - Vibration: The vibration levels peaked at 0.99 mm/s, with an average of 0.58 mm/s and an RMS vibration of 0.60, suggesting moderate machinery activity.
+
+2. Important Information: The temperature data exhibited significant variation, with notable peaks that warrant further investigation to ensure no underlying equipment issues are causing these fluctuations. The pressure readings remained stable, but the elevated temperature range, coupled with moderate vibration levels, suggests potential inefficiencies or developing faults in certain machinery components. It is recommended to perform a thorough inspection and maintenance check on the equipment experiencing higher temperatures to prevent possible equipment failure and optimize operational efficiency."
+2023-03-10 14:00:00,2023-03-10 15:00:00,"1. Shift Report:
+   - Temperature: Throughout the shift, temperatures fluctuated between 50.75°C and 129.34°C, averaging at 93.61°C with a standard deviation of 22.33. This indicates significant variability, potentially due to process demands or equipment operation.
+   - Pressure: The average pressure maintained at 8.51 bar with a standard deviation of 0.86, suggesting consistent operational conditions with minor fluctuations.
+   - Vibration: The highest recorded vibration level was 1.00 mm/s, while the average was 0.48 mm/s, and the RMS vibration was 0.60. These values are within acceptable ranges, indicating normal operational conditions for the machinery.
+
+2. Important Information:
+The temperature data revealed considerable variability, which warrants closer monitoring to ensure that the fluctuations do not escalate into potential equipment overheating issues. While pressure and vibration metrics remain within normal ranges, it is recommended to maintain vigilance on temperature trends and investigate the cause of such variability to prevent any unforeseen equipment malfunctions."
+2023-03-10 15:00:00,2023-03-10 16:00:00,"1. Shift Report:
+   - Temperature: During the shift from 15:00 to 16:00, the temperature fluctuated between 50.26°C and 129.87°C, with an average of 90.67°C and a standard deviation of 22.03°C.
+   - Pressure: The average pressure maintained at 8.61 bar, with a standard deviation of 0.87 bar, indicating consistent operational conditions.
+   - Vibration: The vibration levels peaked at 0.99 mm/s, with an average of 0.53 mm/s and an RMS value of 0.60, suggesting moderate operational vibration levels.
+
+2. Important Information: The temperature exhibited significant variation, which might warrant further investigation to ensure no underlying issues, such as bearing wear or cooling system malfunctions, are causing these fluctuations. The pressure and RMS vibration values remained within acceptable ranges, but the temperature anomaly necessitates a review of the thermal management systems to prevent potential equipment damage or performance degradation. It is recommended to schedule a maintenance check focusing on the temperature sensors and associated cooling mechanisms during the next scheduled downtime."
+2023-03-10 16:00:00,2023-03-10 17:00:00,"1. Shift Report:
+   - Temperature: During the 16:00–17:00 shift, the temperature of the machinery ranged from 51.94°C to 126.53°C, with an average of 86.17°C and a standard deviation of 22.86°C. This indicates significant thermal fluctuations, potentially due to varying operational loads or external factors.
+   - Pressure: The average pressure maintained at 8.62 bar, with a standard deviation of 0.90 bar, suggests consistent operational conditions within the expected range.
+   - Vibration: The vibration levels peaked at 0.96 mm/s, with an average of 0.52 mm/s and an RMS vibration of 0.60. These readings are within acceptable limits, but the occasional spikes warrant monitoring.
+
+2. Important Information:
+While the pressure readings remain within normal limits, the considerable fluctuation in temperature and occasional spikes in vibration levels necessitate closer examination. It is recommended to investigate the causes of these temperature variations and monitor the vibration levels more closely during the subsequent shift to prevent potential equipment degradation."

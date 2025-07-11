@@ -33,7 +33,7 @@ Dataset yang digunakan merupakan data sensor dari lingkungan industri otomasi, y
 
 ## 🛠️ Teknologi yang Digunakan
 
-- **Python + Pandas**: Pembersihan dan manipulasi data
+- **Python + Pandas**: Injeksi, pembersihan dan manipulasi data
 - **Matplotlib & Seaborn**: Visualisasi data dan insight
 - **IBM Granite via Replicate API**: Text generation LLM
 - **Langchain**: Wrapper model Granite
@@ -86,8 +86,8 @@ Notebook ini mencakup seluruh proses:
 
 | File                                       | Fungsi                                        |
 |--------------------------------------------|-----------------------------------------------|
-| `industrial_fault_detection_data_1000.csv` | Dataset mentah sensor industri                |
-| `Shift_Report_AI_Summary.csv`              | Ringkasan hasil Granite per shift             |
+| `industrial_fault_detection_data_1000.csv` | Dataset sensor industri                       |
+| `Shift_Report_AI_Summary.csv`              | Ringkasan hasil summary per shift             |
 | `Capstone_Project_SDI_(1).ipynb`           | Notebook utama seluruh proses analisis        |
 | `README.md`                                | Dokumentasi proyek                            |
 
@@ -96,8 +96,8 @@ Notebook ini mencakup seluruh proses:
 ## ✨ Insight Utama
 
 - Ditemukan lebih dari **10 shift** yang mengandung insight penting seperti:
-  - Anomali suhu ekstrem
-  - Rekomendasi inspeksi suhu pendingin
+  - Anomali pada kondisi mesin
+  - Rekomendasi untuk melakukan inspeksi
   - Fluktuasi getaran tak wajar
 - LLM mampu menghasilkan laporan profesional teknisi dalam hitungan detik
 - Proyek ini membuktikan bahwa AI dapat menjadi **asisten pemeliharaan cerdas** di industri manufaktur

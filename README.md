@@ -84,12 +84,13 @@ Notebook ini mencakup seluruh proses:
 
 ## 📦 File Penting
 
-| File                                       | Fungsi                                        |
-|--------------------------------------------|-----------------------------------------------|
-| `industrial_fault_detection_data_1000.csv` | Dataset sensor industri                       |
-| `Shift_Report_AI_Summary.csv`              | Ringkasan hasil summary per shift             |
-| `Capstone_Project_SDI_(1).ipynb`           | Notebook utama seluruh proses analisis        |
-| `README.md`                                | Dokumentasi proyek                            |
+| File                                                 | Fungsi                                        |
+|------------------------------------------------------|-----------------------------------------------|
+| `industrial_fault_detection_data_1000.csv`           | Dataset sensor industri                       |
+| `Shift_Report_AI_Summary.csv`                        | Ringkasan hasil summary per shift             |
+| `Capstone_Project_SDI_(1).ipynb`                     | Notebook utama seluruh proses analisis        |
+| `PPT Presentasi Capstone Project SDI_compressed.pfg` | Slide presentasi                              |
+| `README.md`                                          | Dokumentasi proyek                            |
 
 ---
 

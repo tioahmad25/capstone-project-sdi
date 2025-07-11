@@ -20,6 +20,7 @@ Dataset yang digunakan merupakan data sensor dari lingkungan industri otomasi, y
 
 | Kolom                       | Deskripsi                                                                 |
 |-----------------------------|---------------------------------------------------------------------------|
+| `Timestamp`                 | Waktu pencatatan data                                                     |
 | `Temperature (°C)`          | Suhu mesin dalam derajat Celcius                                          |
 | `Pressure (bar)`            | Tekanan sistem dalam satuan bar                                           |
 | `Vibration (mm/s)`          | Getaran dalam milimeter per detik                                         |

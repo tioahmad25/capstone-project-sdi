@@ -1,4 +1,4 @@
-# 📊 Capstone Project SDI – Automatic Machine Health Summary Generator using IBM Granite LLM
+# 📊 Capstone Project SDI – Automatic Machine Condition Summary Generator using IBM Granite LLM
 
 Selamat datang di repositori proyek Capstone saya untuk program **Student Development Initiative (SDI)** hasil kolaborasi **Hacktiv8** dan **IBM SkillsBuild**. Proyek ini menggabungkan data sensor industri dan kecerdasan buatan (AI) berbasis Large Language Model (LLM) untuk menghasilkan **laporan teknis otomatis** terkait kondisi mesin dalam tiap shift kerja.
 
